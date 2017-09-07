@@ -1,0 +1,24 @@
+{
+  "name": "node-graphql-server",
+  "version": "1.0.0",
+  "description": "A graphql server starter using NodeJs and MongoDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "graphql-server",
+    "nodeJs",
+    "MongoDB"
+  ],
+  "author": "codebyomar",
+  "license": "MIT",
+  "dependencies": {
+    "apollo-server-express": "^1.1.0",
+    "body-parser": "^1.17.2",
+    "express": "^4.15.4",
+    "graphql": "^0.10.5",
+    "graphql-tools": "^1.1.0",
+    "mongoose": "^4.11.7"
+  }
+}
